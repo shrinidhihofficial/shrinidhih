@@ -1,0 +1,67 @@
+{
+  "persona": {
+    "name": "Shrinidhi Hariharasuthan",
+    "role": "Forward Deployed Product Manager",
+    "location": "India",
+    "email": "shrinidhihofficial@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shrinidhi-h",
+    "photo": "assets/headshot.jpg",
+    "heroArt": "assets/hero-art.webp",
+    "availability": "Forward Deployed Product Manager",
+    "headlineRich": [
+      "AI Strategy,",
+      "executed with <em class=\"text-terracotta\">empathy</em>"
+    ],
+    "subheadline": "From digital transformation consulting to AI product management, I understand complex workflows, identify inefficiencies and turn them into easy to operate agentic AI systems that users love."
+  },
+  "marqueeItems": [
+    "Agentic AI",
+    "Human in the Loop",
+    "Digital Transformation",
+    "Product Management",
+    "Go-To-Market",
+    "Workflow Redesign",
+    "OpenAI Ecosystem"
+  ],
+  "experience": {
+    "roles": [
+      {
+        "period": "2026 — Now",
+        "title": "AI Consultant",
+        "company": "OpenAI Center of Excellence, TCS",
+        "note": "Own the Product management & GTM of OpenAI based products"
+      },
+      {
+        "period": "2024 — 2025",
+        "title": "Business Consultant",
+        "company": "Global Consulting Practice, TCS",
+        "note": "Digital transformation consultant solving organization-wide client problems"
+      }
+    ],
+    "education": [
+      {
+        "period": "2022 — 2024",
+        "degree": "MBA",
+        "school": "Indian Institute of Management Bangalore",
+        "logo": "assets/iimb-logo.png"
+      },
+      {
+        "period": "2018 — 2022",
+        "degree": "B. Tech",
+        "school": "Indian Institute of Technology Madras",
+        "logo": "assets/iitm-logo.png"
+      }
+    ]
+  },
+  "aboutCopy": {
+    "intro": "Hi, I'm Shrinidhi Hariharasuthan!",
+    "story": [
+      "I'm an AI product manager with an unusual path. I started as a digital transformation consultant, mapping how large enterprises really work and redesigning their workflows.",
+      "That habit of asking 'how could this work better?' led me to AI. As a founding member of TCS's OpenAI Centre of Excellence, I moved from improving workflows to building intelligent agentic platforms with humans in the loop.",
+      "Studying systems end to end made me curious about a bigger question: what happens when AI agents start acting for everyday people, not just enterprises? That question drives my work today, building agentic products that are useful, trustworthy and human at their core."
+    ]
+  },
+  "contactCopy": {
+    "intro": "The fastest way to reach me is email — or find me on LinkedIn. Whether it's agentic AI, product strategy or a new role, my inbox is open."
+  }
+}
