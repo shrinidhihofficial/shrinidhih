@@ -6,22 +6,25 @@
     "email": "shrinidhihofficial@gmail.com",
     "linkedin": "https://www.linkedin.com/in/shrinidhi-h",
     "photo": "assets/headshot.jpg",
-    "heroArt": "assets/hero-art.webp",
     "availability": "Forward Deployed Product Manager",
     "headlineRich": [
       "AI Strategy,",
-      "executed with <em class=\"text-terracotta\">empathy</em>"
+      "Executed with <em class=\"text-terracotta\">Empathy</em>"
     ],
-    "subheadline": "From digital transformation consulting to AI product management, I understand complex workflows, identify inefficiencies and turn them into easy to operate agentic AI systems that users love."
+    "subheadline": "I untangle complex workflows, find what slows people down, and turn it into agentic systems people love to use."
   },
-  "marqueeItems": [
-    "Agentic AI",
-    "Human in the Loop",
-    "Digital Transformation",
-    "Product Management",
-    "Go-To-Market",
-    "Workflow Redesign",
-    "OpenAI Ecosystem"
+  "wordCloud": [
+    ["Agile", "PRDs", "LLMs"],
+    ["Roadmaps", "Generative AI"],
+    ["Agentic Workflows", "ROI Assessment"],
+    ["Stakeholder Management"],
+    ["Forward Deployed PM"],
+    ["AI Strategy", "A/B Testing"],
+    ["Cross-Functional Delivery"],
+    ["Competitive Benchmarking"],
+    ["Evaluation Harness", "Growth Strategy"],
+    ["Product Discovery"],
+    ["Human in the Loop"]
   ],
   "experience": {
     "roles": [
@@ -41,24 +44,35 @@
     "education": [
       {
         "period": "2022 — 2024",
-        "degree": "MBA",
+        "degree": "Master of Business Administration",
         "school": "Indian Institute of Management Bangalore",
         "logo": "assets/iimb-logo.png"
       },
       {
         "period": "2018 — 2022",
-        "degree": "B. Tech",
+        "degree": "Bachelor of Technology",
         "school": "Indian Institute of Technology Madras",
         "logo": "assets/iitm-logo.png"
       }
     ]
   },
+  "portfolio": [
+    {
+      "name": "Credbuddy",
+      "description": "A personal credit card manager for the whole family that helps allocate spend across various cards to attain maximum benefits, and provides a credit card portfolio strategy."
+    },
+    {
+      "name": "ResilientOps",
+      "description": "A supply chain disruption detector, impact analysis and recovery plan generation system for discrete manufacturers."
+    }
+  ],
   "aboutCopy": {
-    "intro": "Hi, I'm Shrinidhi Hariharasuthan!",
+    "intro": "Hi, I’m Shrinidhi",
     "story": [
-      "I'm an AI product manager with an unusual path. I started as a digital transformation consultant, mapping how large enterprises really work and redesigning their workflows.",
-      "That habit of asking 'how could this work better?' led me to AI. As a founding member of TCS's OpenAI Centre of Excellence, I moved from improving workflows to building intelligent agentic platforms with humans in the loop.",
-      "Studying systems end to end made me curious about a bigger question: what happens when AI agents start acting for everyday people, not just enterprises? That question drives my work today, building agentic products that are useful, trustworthy and human at their core."
+      "I’m an AI product manager who loves turning customer problems into lovable solutions.",
+      "My path has been unconventional. I started as a digital transformation consultant, where curiosity drew me to how enterprises really work: observing their workflows, spotting where they break and redesigning them with technology.",
+      "I’ve always been relentless about asking, “How could this work even better?” That question led me to AI. I moved from shaping strategies that improve workflows to delivering them as intelligent agentic platforms with humans in the loop.",
+      "Studying systems end to end raised an even bigger question: what if agents could act for people every day, not just for enterprises? That question drives my work today, building agentic AI products that are useful, trustworthy and centered around humans."
     ]
   },
   "contactCopy": {
