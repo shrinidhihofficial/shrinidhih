@@ -35,16 +35,23 @@ Open `portfolio-content.json` on GitHub, click the pencil icon, edit, and **Comm
 The site updates within a few minutes.
 
 - Keep the JSON valid: every item in a list needs a comma after it except the last one.
-- In `headlineRich`, wrap words in `<em class="text-terracotta">…</em>` to set them in the italic accent colour.
-- A role whose `period` contains "Now" gets the highlighted node on the timeline.
-- The timeline merges `roles` and `education` and sorts them by start year.
+- In `headlineRich`, wrap words in `<em class="text-terracotta">…</em>` to set them as red italic highlight words.
+- Each entry in `roles` becomes a card in the Work column (left) and each entry in `education`
+  a card in the Education column (right), newest first by start year. Cards in the same row line up.
+- A role whose `period` contains "Now" gets a red dot next to its dates.
+- Each entry in `portfolio` becomes a project card (`name` and `description`). Add
+  `"link": "https://…"` to a project to show a "View project" link on its card.
+- `wordCloud` is the block of skills beside the headline. Each inner list is one line, e.g.
+  `["AI Strategy", "A/B Testing"]`. Every line is stretched to the full width, so shorter lines
+  come out bigger. Colours alternate automatically.
+- Colours live at the top of `styles.css`: white `#FFFFFF`, grey `#D1D1D1` (borders),
+  red `#C25F5F` (highlights), dark red `#703030` (titles and buttons), near-black `#2B2B2B` (body text).
 
 ## Change the images
 
 Images live in the `assets` folder and the JSON points to them:
 
 - `persona.photo` → `assets/headshot.jpg` (shown as a circle in the About section)
-- `persona.heroArt` → `assets/hero-art.webp` (shown beside the headline on laptops and wider screens)
 - `experience.education[].logo` → `assets/iimb-logo.png`, `assets/iitm-logo.png`
 
 To swap one, upload a new file with the same name, or upload any name and update the path in the JSON.
