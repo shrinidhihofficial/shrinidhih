@@ -57,13 +57,11 @@
     ]
   },
   "portfolio": [
-    {
-      "name": "Credbuddy",
-      "description": "A personal credit card manager for the whole family that helps allocate spend across various cards to attain maximum benefits, and provides a credit card portfolio strategy."
-    },
+
     {
       "name": "ResilientOps",
       "description": "A supply chain disruption detector, impact analysis and recovery plan generation system for discrete manufacturers."
+      "link": https://resilientops-uqjrybm5nq-el.a.run.app/home.html
     }
   ],
   "aboutCopy": {
