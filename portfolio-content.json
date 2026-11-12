@@ -63,12 +63,8 @@
       "description": "An agent-assisted supply chain decision intelligence platform for discrete manufacturers. Detects disruption signals, assesses production and order impact, evaluates recovery options and supports human-in-the-loop approvals.",
       "links": [
         {
-          "label": "Live Demo",
+          "label": "Website",
           "url": "https://resilientops-uqjrybm5nq-el.a.run.app/home.html"
-        },
-        {
-          "label": "GitHub",
-          "url": "https://github.com/shrinidhihofficial/ResilientOps"
         }
       ]
     },
