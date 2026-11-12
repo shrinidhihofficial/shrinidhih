@@ -1,3 +1,4 @@
+
 {
   "persona": {
     "name": "Shrinidhi Hariharasuthan",
@@ -57,14 +58,29 @@
     ]
   },
   "portfolio": [
-
     {
       "name": "ResilientOps",
-      "description": "A supply chain disruption detector, impact analysis and recovery plan generation system for discrete manufacturers."
-    }
+      "description": "An agent-assisted supply chain decision intelligence platform for discrete manufacturers. Detects disruption signals, assesses production and order impact, evaluates recovery options and supports human-in-the-loop approvals.",
+      "links": [
+        {
+          "label": "Live Demo",
+          "url": "https://resilientops-uqjrybm5nq-el.a.run.app/home.html"
+        },
+        {
+          "label": "GitHub",
+          "url": "https://github.com/shrinidhihofficial/ResilientOps"
+        }
+      ]
+    },
     {
-      "name": "Frontier AI news extractor",
-      "description": "Tracks news from OpenAI, Anthropic, Google DeepMind, DeepSeek and Mistral, using Exa to collect posts and GPT-6 Luna to filter, summarise and categorise them into a deduplicated Excel tracker that keeps your notes between runs."
+      "name": "Frontier AI News Extractor",
+      "description": "An automated frontier AI intelligence pipeline tracking OpenAI, Anthropic, Google DeepMind, DeepSeek and Mistral. Uses Exa for research and GPT models to filter, summarize, categorize and deduplicate developments into a persistent Excel tracker.",
+      "links": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com/shrinidhihofficial/Frontier-AI-News-extractor"
+        }
+      ]
     }
   ],
   "aboutCopy": {
