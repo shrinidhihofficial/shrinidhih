@@ -62,6 +62,10 @@
       "name": "ResilientOps",
       "description": "A supply chain disruption detector, impact analysis and recovery plan generation system for discrete manufacturers. Access at: resilientops-uqjrybm5nq-el.a.run.app/home.html"
     }
+    {
+      "name": "Frontier AI news extractor",
+      "description": "Tracks news from OpenAI, Anthropic, Google DeepMind, DeepSeek and Mistral, using Exa to collect posts and GPT-6 Luna to filter, summarise and categorise them into a deduplicated Excel tracker that keeps your notes between runs. Access at: https://github.com/shrinidhihofficial/Frontier-AI-News-extractor"
+    }
   ],
   "aboutCopy": {
     "intro": "Hi, I’m Shrinidhi",
